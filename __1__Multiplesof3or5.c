@@ -32,3 +32,5 @@ int sumofmultiplesto1000(int n)
 
     return n * ((j * (j + 1)) / 2);
 }
+
+// sum of multiples of 3 + sum of multiples of 5 - sum of multiples of 15 
